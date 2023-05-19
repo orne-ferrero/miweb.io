@@ -1,0 +1,31 @@
+body {
+  background-color: aquamarine;
+  background-image:url( ../imagenes/pexels-joyston-judah-933054.jpg);
+  background-size: 1550px ;
+  background-repeat:no-repeat ;
+  background-attachment: fixed;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-shadow: 3px 1px 2px rgb(238, 230, 230);
+}
+ .parra2{
+  color: beige;
+  text-align: justify;;
+ }
+#parra3{
+  color: black;
+  text-align: right;
+} 
+img{
+  float:left;
+  padding: 5px;
+
+}
+div{
+  border: 2px solid black;
+
+}
+/* comentario */ 
